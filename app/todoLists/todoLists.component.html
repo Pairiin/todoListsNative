@@ -1,0 +1,14 @@
+<StackLayout width="280">
+    <TextField [(ngModel)]="twoWay"></TextField>
+    <Label text="twoWay"></Label>
+    <Label [text]="twoWay"></Label>
+    <button text="กด" (tap)="add()"></button>
+    <!-- <ListView [items]="todo">
+        <ng-template let-todos="item">
+            <Label [text]="todos"></Label>
+        </ng-template>
+    </ListView> -->
+    <stackLayout *ngFor="let todo of todos">
+            <Label [text]="todo"></Label>
+    </stackLayout>
+</StackLayout>

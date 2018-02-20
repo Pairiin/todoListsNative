@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\testnode\\testNative\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\6fbd952d880ddbb8e1e10260ad1d1881f91489a6\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\testnode\\testNative\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\6fbd952d880ddbb8e1e10260ad1d1881f91489a6\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]
